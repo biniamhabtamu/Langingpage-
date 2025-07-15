@@ -33,9 +33,9 @@ const Footer = () => {
   ];
 
   const contactInfo = [
-    { icon: <Mail className="h-5 w-5" />, text: "contact@glsoftware.com" },
-    { icon: <Phone className="h-5 w-5" />, text: "+1 (555) 123-4567" },
-    { icon: <MapPin className="h-5 w-5" />, text: "123 Tech Street, Silicon Valley" }
+    { icon: <Mail className="h-5 w-5" />, text: "contact@brightmind.com" },
+    { icon: <Phone className="h-5 w-5" />, text: "+2 (199) 402-4681" },
+    { icon: <MapPin className="h-5 w-5" />, text: "123 Dire-dawa, Ethiopia" }
   ];
 
   return (
@@ -56,7 +56,7 @@ const Footer = () => {
             >
               <Zap className="h-8 w-8 text-blue-400 animate-pulse" />
               <span className="ml-3 text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-500">
-                GL Software
+                Bright Mind
               </span>
             </motion.div>
             <p className="text-gray-300 leading-relaxed">
