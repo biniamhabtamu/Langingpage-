@@ -23,7 +23,7 @@ const Hero = () => {
             className="inline-flex items-center justify-center px-3 py-1 sm:px-4 sm:py-2 mb-4 sm:mb-6 bg-white/10 backdrop-blur-md rounded-full border border-white/20 shadow-sm text-xs sm:text-sm"
           >
             <Sparkles className="h-3 w-3 sm:h-4 sm:w-4 md:h-5 md:w-5 text-yellow-300 mr-1 sm:mr-2" />
-            <span className="font-medium text-white">Trusted by 100+ Businesses</span>
+            <span className="font-medium text-white">Trusted by 99+ Businesses</span>
           </motion.div>
 
           {/* Headline - responsive font sizes */}
