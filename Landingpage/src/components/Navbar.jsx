@@ -42,7 +42,7 @@ const Navbar = () => {
               <div className="flex-shrink-0 flex items-center">
                 <Zap className="h-8 w-8 text-blue-600 transition-transform hover:rotate-12" />
                 <span className="ml-2 text-xl font-bold text-gray-900 hover:text-blue-600 transition-colors">
-                  GL Software
+                   Bright Mind
                 </span>
               </div>
             </motion.div>
