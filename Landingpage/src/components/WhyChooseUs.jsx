@@ -87,7 +87,7 @@ const WhyChooseUs = () => {
             Why We're Different
           </motion.span>
           <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-            The <span className="bg-gradient-to-r from-sky-500 to-blue-600 bg-clip-text text-transparent">GL Software</span> Advantage
+            The <span className="bg-gradient-to-r from-sky-500 to-blue-600 bg-clip-text text-transparent">Bright Mind</span> Advantage
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             We go beyond development to become your strategic <span className="font-semibold text-gray-800">technology innovation partner</span>
